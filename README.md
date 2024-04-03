@@ -25,7 +25,7 @@ This utility simulates process scheduling within an operating system environment
 Compile the tool with GCC using the following command:
 
 ```bash
-gcc -o scheduler scheduler.c -lm
+gcc -o scheduler scheduler.c 
 
 ./pa2 <algorithm> <lambda> <mu> <quantum> <max_processes>
 
