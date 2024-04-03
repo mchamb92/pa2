@@ -24,12 +24,10 @@ This utility simulates process scheduling within an operating system environment
 
 Compile the tool with GCC using the following command:
 
-```bash
-gcc -o scheduler scheduler.c 
 
-./pa2 <algorithm> <lambda> <mu> <quantum> <max_processes>
+![alt text](https://github.com/mchamb92/pa2/assets/48071562/4bf593cc-8366-4c54-9bad-8bf15eca5d70 "Image Title")
 
-Example
-./pa2 1 0.25 1.2 3 
 
-This will simulate the SRTF scheduling algorithm with a process arrival rate of 0.25 processes/second, an average service time of 1.2 seconds, a Round Robin quantum of 3, and will terminate after 1500 processes have been completed.
+
+
+
