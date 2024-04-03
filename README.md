@@ -1,4 +1,5 @@
 Process Scheduling Simulation Tool
+
 This utility offers a dynamic simulation of process scheduling, leveraging various algorithms including FCFS (First Come, First Served), SRTF (Shortest Remaining Time First), and RR (Round Robin) to demonstrate how different scheduling strategies operate.
 
 Getting Started
