@@ -27,9 +27,9 @@ Compile the tool with GCC using the following command:
 ```bash
 gcc -o scheduler scheduler.c -lm
 
-./scheduler <algorithm> <lambda> <mu> <quantum> <max_processes>
+./pa2 <algorithm> <lambda> <mu> <quantum> <max_processes>
 
 Example
-./scheduler 1 0.25 1.2 3 1500
+./pa2 1 0.25 1.2 3 1500
 
 This will simulate the SRTF scheduling algorithm with a process arrival rate of 0.25 processes/second, an average service time of 1.2 seconds, a Round Robin quantum of 3, and will terminate after 1500 processes have been completed.
